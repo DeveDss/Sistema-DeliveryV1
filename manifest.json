@@ -1,54 +1,54 @@
 {
-  "name": "#ProgramadorFitness",
-  "short_name": "#ProgramadorFitness",
-  "description": "Bienvenid@s a #ProgramadorFitness, serie de videos, donde te daré consejos para llevar una vida saludable y evitar el sedentarismo. Recuerda... mente sana en cuerpo sano :)",
-  "background_color": "#2B2B2B",
-  "theme_color": "#F0DB4F",
+  "name": "Mi Restaurant",
+  "short_name": "Mi Restaurant",
+  "description": "Realizamos delivery de comida a todo Chiclayo",
+  "background_color": "#18243A",
+  "theme_color": "#18243A",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
   "scope": "./",
-  "lang": "es-MX",
+  "lang": "es-PE",
   "icons": [
     {
-      "src": "./img/icon_1024.png",
+      "src": "./img/icon_1024.jpg",
       "sizes": "1024x1024",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "./img/icon_512.png",
+      "src": "./img/icon_512.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "./img/icon_384.png",
+      "src": "./img/icon_384.jpg",
       "sizes": "384x384",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "./img/icon_256.png",
+      "src": "./img/icon_256.jpg",
       "sizes": "256x256",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "./img/icon_192.png",
+      "src": "./img/icon_192.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "./img/icon_128.png",
+      "src": "./img/icon_128.jpg",
       "sizes": "128x128",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "./img/icon_96.png",
+      "src": "./img/icon_96.jpg",
       "sizes": "96x96",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
-      "src": "./img/icon_64.png",
+      "src": "./img/icon_64.jpg",
       "sizes": "64x64",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
       "src": "./img/icon_32.png",
@@ -56,9 +56,9 @@
       "type": "image/png"
     },
     {
-      "src": "./img/favicon.png",
+      "src": "./img/favicon.jpg",
       "sizes": "16x16",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ]
 }
