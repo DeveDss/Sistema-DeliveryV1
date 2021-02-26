@@ -51,9 +51,9 @@
       "type": "image/jpg"
     },
     {
-      "src": "./img/icon_32.png",
+      "src": "./img/icon_32.jpg",
       "sizes": "32x32",
-      "type": "image/png"
+      "type": "image/jpg"
     },
     {
       "src": "./img/favicon.jpg",
