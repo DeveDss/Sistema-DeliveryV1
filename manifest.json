@@ -6,59 +6,60 @@
   "theme_color": "#18243A",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "./?utm_source=web_app_manifest",
+  "start_url": "https://devedss.github.io/Sistema-DeliveryV1/",
   "scope": "./",
   "lang": "es-PE",
   "icons": [
     {
-      "src": "./img/icon_1024.jpg",
+      "src": "https://devedss.github.io/Sistema-DeliveryV1/img/icon_1024.jpg",
       "sizes": "1024x1024",
       "type": "image/jpg"
     },
     {
-      "src": "./img/icon_512.jpg",
+      "src": "https://devedss.github.io/Sistema-DeliveryV1/img/icon_512.jpg",
       "sizes": "512x512",
       "type": "image/jpg"
     },
     {
-      "src": "./img/icon_384.jpg",
+      "src": "https://devedss.github.io/Sistema-DeliveryV1/img/icon_384.jpg",
       "sizes": "384x384",
       "type": "image/jpg"
     },
     {
-      "src": "./img/icon_256.jpg",
+      "src": "https://devedss.github.io/Sistema-DeliveryV1/img/icon_256.jpg",
       "sizes": "256x256",
       "type": "image/jpg"
     },
     {
-      "src": "./img/icon_192.jpg",
+      "src": "https://devedss.github.io/Sistema-DeliveryV1/img/icon_192.jpg",
       "sizes": "192x192",
       "type": "image/jpg"
     },
     {
-      "src": "./img/icon_128.jpg",
+      "src": "https://devedss.github.io/Sistema-DeliveryV1/img/icon_128.jpg",
       "sizes": "128x128",
       "type": "image/jpg"
     },
     {
-      "src": "./img/icon_96.jpg",
+      "src": "https://devedss.github.io/Sistema-DeliveryV1/img/icon_96.jpg",
       "sizes": "96x96",
       "type": "image/jpg"
     },
     {
-      "src": "./img/icon_64.jpg",
+      "src": "https://devedss.github.io/Sistema-DeliveryV1/img/icon_64.jpg",
       "sizes": "64x64",
       "type": "image/jpg"
     },
     {
-      "src": "./img/icon_32.jpg",
+      "src": "https://devedss.github.io/Sistema-DeliveryV1/img/icon_32.jpg",
       "sizes": "32x32",
       "type": "image/jpg"
     },
     {
-      "src": "./img/favicon.jpg",
+      "src": "https://devedss.github.io/Sistema-DeliveryV1/img/favicon.jpg",
       "sizes": "16x16",
       "type": "image/jpg"
     }
-  ]
+  ],
+  "url": "https://devedss.github.io/Sistema-DeliveryV1/"
 }
