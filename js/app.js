@@ -1,3 +1,8 @@
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./js/sw.js')
+    .then(reg => console.log('Registro de SW exitoso', reg))
+    .catch(err => console.warn('Error al tratar de registrar el sw', err))
+}
 document.querySelector('.logo-principal').addEventListener('click',function(){
   window.open("index.html","_self")})
 document.querySelector('.yearact').textContent=new Date().getFullYear()
